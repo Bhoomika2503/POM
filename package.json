@@ -1,10 +1,14 @@
 {
-  "dependencies": {
-    "playwright": "^1.55.0"
-  },
+  "name": "playwrighttechifynow",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
   "devDependencies": {
-    "@playwright/test": "^1.55.0",
-    "@types/node": "^24.3.0"
-  },
-  "scripts": {}
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.29"
+  }
 }
